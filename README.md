@@ -1,7 +1,6 @@
- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋 Hi, I’m @phoeniX1817 )](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DD59FF&width=435&lines=Hello+my+friend%2C+phoenix+welcomes+you)](https://git.io/typing-svg)
 - 👀 I’m interested in Java Backend development with pure love for problem solving
-- 🌱 I’m currently learning ...
-- open to network, feel free approach directly
+- 🌱 open to network, feel free to approach directly
 
 - ⚡ Fun fact: mad love for music
 
