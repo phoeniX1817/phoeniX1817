@@ -3,7 +3,7 @@
 -     <DSA, SQL, Java, OOP, springboot>
 - 🌱 open to network, feel free to approach
 
-- ⚡ Fun fact: mad love for music
+- ⚡ Fun fact: mad love for music,books,cricket
 
 <!---
 phoeniX1817/phoeniX1817 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
